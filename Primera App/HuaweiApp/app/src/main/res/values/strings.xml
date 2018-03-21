@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyForm</string>
+    <string name="label1">Hola Mundo</string>
+    <string name="labelSig">GO NEXT</string>
+    <string name="textView"></string>
+    <string name="Encender">Encendido</string>
+    <string name="op_1">Opcion 1</string>
+</resources>
