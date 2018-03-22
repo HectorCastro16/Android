@@ -60,7 +60,7 @@ public class TerceroActivity extends AppCompatActivity {
                     intentMail.putExtra(Intent.EXTRA_TEXT,"Este es el mensaje de email");
                     intentMail.putExtra(Intent.EXTRA_EMAIL,new String[]{"rhfhfd@gmail.com","sdggwetg@outlook.com"});
                     startActivity(Intent.createChooser(intentMail,"Eleige cliente de correo"));
-                    startActivity(intentMail);
+                    //startActivity(intentMail);}
                 }else{
                     Toast.makeText(TerceroActivity.this,"Ingrese Url",Toast.LENGTH_SHORT).show();
                 }
