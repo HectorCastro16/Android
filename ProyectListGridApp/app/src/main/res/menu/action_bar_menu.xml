@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@id/action_add_item"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Add Item"
+        app:showAsAction="ifRoom" />
+    <group android:id="@id/group">
+        <item
+            android:id="@id/action_vista_grid"
+            android:icon="@drawable/ic_grid_24dp"
+            android:title="Add Item"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@id/action_vista_list"
+            android:icon="@drawable/ic_list_24dp"
+            android:title="Add Item"
+            android:visible="false"
+            app:showAsAction="ifRoom" />
+
+    </group>
+</menu>

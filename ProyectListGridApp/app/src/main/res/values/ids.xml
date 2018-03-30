@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="lvFrutas" type="id">lvFrutas</item>
+    <item name="gvFrutas" type="id">gvFrutas</item>
+    <item name="ivFruta" type="id">ivFruta</item>
+    <item name="tvNombreFruta" type="id">tvNombreFruta</item>
+    <item name="tvCiudadFruta" type="id">tvCiudadFruta</item>
+    <item name="action_add_item" type="id">action_add_item</item>
+    <item name="action_cambia_vista" type="id">action_cambia_vista</item>
+    <item name="action_vista_list" type="id">action_vista_list</item>
+    <item name="action_vista_grid" type="id">action_vista_grid</item>
+    <item name="group" type="id">group</item>
+
+    <item name="ic_pera" type="id">ic_pera</item>
+    <item name="ic_uva" type="id">ic_uva</item>
+    <item name="ic_manzana" type="id">ic_manzana</item>
+    <item name="ic_new_fruit" type="id">ic_new_fruit</item>
+
+    <item name="cm_action_delete" type="id">cm_action_delete</item>
+    <item name="cm_action_extra" type="id">cm_action_extra</item>
+</resources>
