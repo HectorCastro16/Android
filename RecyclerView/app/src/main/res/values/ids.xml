@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvRecyclerView" type="id">tvRecyclerView</item>
+    <item name="rvRecyclerView" type="id">rvRecyclerView</item>
+    <item name="itemAdd" type="id">itemAdd</item>
+
+</resources>
