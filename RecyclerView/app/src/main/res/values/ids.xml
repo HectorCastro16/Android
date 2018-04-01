@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="tvRecyclerView" type="id">tvRecyclerView</item>
     <item name="rvRecyclerView" type="id">rvRecyclerView</item>
     <item name="itemAdd" type="id">itemAdd</item>
-
+    <item name="cvPrimero" type="id">cvPrimero</item>
+    <item name="ivPoster" type="id">ivPoster</item>
+    <item name="tvName" type="id">tvName</item>
 </resources>
