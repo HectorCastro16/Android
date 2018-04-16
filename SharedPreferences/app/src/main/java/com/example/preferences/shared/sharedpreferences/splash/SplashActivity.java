@@ -3,6 +3,7 @@ package com.example.preferences.shared.sharedpreferences.splash;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.os.SystemClock;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -28,7 +29,7 @@ public class SplashActivity extends AppCompatActivity {
         }else{
             startActivity(intentLogin);
         }
-
+        SystemClock.sleep(10000);
         finish();
     }
 }
