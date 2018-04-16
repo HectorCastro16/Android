@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnAlert" type="id">btnAlert</item>
+    <item name="etAlerte" type="id">etAlerte</item>
+
+</resources>

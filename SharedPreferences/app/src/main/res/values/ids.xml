@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etUser" type="id">etUser</item>
+    <item name="etUser2" type="id">etUser2</item>
+    <item name="etPass" type="id">etPass</item>
+    <item name="swRemember" type="id">swRemember</item>
+    <item name="btnLogin" type="id">btnLogin</item>
+    <item name="menu_logout" type="id">menu_logout</item>
+    <item name="menu_forget_logout" type="id">menu_forget_logout</item>
+</resources>
