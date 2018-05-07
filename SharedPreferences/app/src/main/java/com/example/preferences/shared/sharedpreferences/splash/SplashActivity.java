@@ -29,7 +29,7 @@ public class SplashActivity extends AppCompatActivity {
         }else{
             startActivity(intentLogin);
         }
-        SystemClock.sleep(10000);
+        SystemClock.sleep(4000);
         finish();
     }
 }

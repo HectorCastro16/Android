@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dataFragment" type="id">dataFragment</item>
+    <item name="detailsFragment" type="id">detailsFragment</item>
+    <item name="btnSend" type="id">btnSend</item>
+    <item name="etData" type="id">etData</item>
+    <item name="tvDetails" type="id">tvDetails</item>
+</resources>
